@@ -22,6 +22,8 @@ $ pip install stdiomask
 
 $ pip install licensing 
 
+$ git clone https://github.com/kia826/Crack-fb
+
 $ cd Crack-fb
 
 $ python Sc.py
