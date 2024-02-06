@@ -1,4 +1,5 @@
 Perintah Dasar Termux
+
 NOTE :  JANGAN PAKE TANDA "$"
 
 $ pkg update && pkg upgrade
