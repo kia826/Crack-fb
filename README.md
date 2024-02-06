@@ -26,4 +26,6 @@ $ git clone https://github.com/kia826/Crack-fb
 
 $ cd Crack-fb
 
+$ git pull
+
 $ python Sc.py
